@@ -1,0 +1,30 @@
+#heading{
+	color: white;
+}
+
+.something{
+	border: 2px solid #c49215;
+}
+
+#admin{
+	width: 140px;
+	background-color: #e9d9f7;
+}
+
+.adminhead{
+	font-family: 'Chicle', cursive;
+	font-size: 6em;
+}
+
+.headlines{
+	font-family: 'Pacifico', cursive;
+}
+
+#body{
+	/*background-color: #002560;*/
+		
+}
+
+.logout{
+	color: white;
+}
